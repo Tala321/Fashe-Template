@@ -1,0 +1,17 @@
+#slider {
+height: 172px;
+}
+
+
+#slider .leftRightBtns .collections {
+    margin-left: 40%;
+    margin-top: -174px;
+}
+
+
+#featuredProducts .container .recomendedProducts .row {
+    text-align: center;
+    margin: 35px;
+    position: relative;
+    margin: 0px 65px;
+}
